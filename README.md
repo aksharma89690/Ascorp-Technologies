@@ -6,7 +6,7 @@
 
 ## Create a website inspired by Ascorp Technologies with a dark theme using HTML, CSS, and JavaScript:
 
-##1. Inspiration and Planning:
+## 1. Inspiration and Planning:
 Analyze Ascorp Technologies Website: Thoroughly examine the original site's layout, content structure, navigation, and visual style. Identify sections you want to include or adapt.
 Gather Inspiration: Look at other websites for design elements you like, such as color schemes, fonts, and animations.
 Plan Your Website: Sketch a wireframe outlining the layout and content organization. Determine essential sections like header, hero, about us, services, portfolio, contact, and footer.
